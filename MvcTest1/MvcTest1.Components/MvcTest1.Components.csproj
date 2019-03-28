@@ -43,6 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Mvc\DisplayNameMetaDataProvider.cs" />
+    <Compile Include="Mvc\ILanguages.cs" />
+    <Compile Include="Mvc\Language.cs" />
+    <Compile Include="Mvc\Languages.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
